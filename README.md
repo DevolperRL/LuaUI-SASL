@@ -2,6 +2,8 @@
 LuaUI for SASL
 This library makes easier to draw buttons and so on.
 
+## Make sure you put the scripts inside the folders in ***"..\Custom Module\"***
+
 How to use:
 LunaButton:
 ```
